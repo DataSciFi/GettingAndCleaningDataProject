@@ -5,7 +5,7 @@ This is an educational project for the "Getting And Cleaning Data" course at Cou
 
 Contents
 -------------------------
-* __CodeBook.md__ - Code Book the variables, the data, and any transformations or work that you performed to clean up the data 
+* __CodeBook.md__ - Code Book the variables, the data, and any transformations or work that were performed to clean up the data 
 
 * __run_analysis.R__ - main project R-script 
 
